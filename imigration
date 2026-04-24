@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Immigration Policy Discussion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            line-height: 1.6;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #34495e;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+            background: white;
+            max-width: 900px;
+            margin: 20px auto;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #2c3e50;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>U.S. Immigration Policy Discussion</h1>
+    <p>Exploring arguments for stricter immigration policies</p>
+</header>
+
+<nav>
+    <a href="#economy">Economy</a>
+    <a href="#services">Public Services</a>
+    <a href="#security">Security</a>
+    <a href="#counter">Counterarguments</a>
+</nav>
+
+<div class="container">
+
+    <h2 id="economy">Economic Considerations</h2>
+    <p>
+        Some argue that high levels of immigration can affect job markets, especially in lower-wage sectors.
+        Increased competition may impact wages and employment opportunities for certain groups.
+    </p>
+
+    <h2 id="services">Strain on Public Services</h2>
+    <p>
+        Population growth can increase demand for schools, healthcare, and housing.
+        Managing growth is important to ensure infrastructure keeps pace.
+    </p>
+
+    <h2 id="security">Border Security and Legal Systems</h2>
+    <p>
+        Maintaining secure borders and a structured immigration system is seen by some as essential for fairness
+        and national stability.
+    </p>
+
+    <h2 id="counter">Counterarguments</h2>
+    <p>
+        Immigration also contributes to economic growth, innovation, and cultural diversity.
+        Many sectors rely on immigrant workers, and immigrants have long played a key role in U.S. development.
+    </p>
+
+</div>
+
+<footer>
+    <p>© 2026 Immigration Policy Discussion</p>
+</footer>
+
+</body>
+</html>
